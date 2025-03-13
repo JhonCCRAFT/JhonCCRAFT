@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Jhon Morales</h1>
 <h3 align="center">Desarrollador de Software🌟</h3>
-<p>Visita mi sitio web</p>
-<span><a href="#>Sitio Web</span>
+<h4>Visita mi sitio web</h4>
+<a href="#>Sitio Web</a>
 
 <br>
 
